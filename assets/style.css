@@ -1,0 +1,20 @@
+.camera {
+	width: 400px;
+
+	border: 10px solid #ddd;
+	margin: 0 auto;
+}
+
+.camera-capture-btn {
+	display: block;
+	margin: 10px 0;
+	padding: 10px 20px;
+	background: cornflowerblue;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+}
+
+#canvas {
+	display: none;
+}
